@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KAMGA\\source\\repos\\CalculatriceEssoh\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5267B1B0-0E81-477B-A9EB-FC9D323BF706}|CalculatriceEssoh\\CalculatriceEssoh.csproj|c:\\users\\kamga\\source\\repos\\calculatriceessoh\\calculatriceessoh\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5267B1B0-0E81-477B-A9EB-FC9D323BF706}|CalculatriceEssoh\\CalculatriceEssoh.csproj|solutionrelative:calculatriceessoh\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5267B1B0-0E81-477B-A9EB-FC9D323BF706}|CalculatriceEssoh\\CalculatriceEssoh.csproj|c:\\users\\kamga\\source\\repos\\calculatriceessoh\\calculatriceessoh\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5267B1B0-0E81-477B-A9EB-FC9D323BF706}|CalculatriceEssoh\\CalculatriceEssoh.csproj|solutionrelative:calculatriceessoh\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5267B1B0-0E81-477B-A9EB-FC9D323BF706}|CalculatriceEssoh\\CalculatriceEssoh.csproj|c:\\users\\kamga\\source\\repos\\calculatriceessoh\\calculatriceessoh\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5267B1B0-0E81-477B-A9EB-FC9D323BF706}|CalculatriceEssoh\\CalculatriceEssoh.csproj|solutionrelative:calculatriceessoh\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5267B1B0-0E81-477B-A9EB-FC9D323BF706}|CalculatriceEssoh\\CalculatriceEssoh.csproj|c:\\users\\kamga\\source\\repos\\calculatriceessoh\\calculatriceessoh\\calculatorengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5267B1B0-0E81-477B-A9EB-FC9D323BF706}|CalculatriceEssoh\\CalculatriceEssoh.csproj|solutionrelative:calculatriceessoh\\calculatorengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CalculatorEngine.cs",
+              "DocumentMoniker": "C:\\Users\\KAMGA\\source\\repos\\CalculatriceEssoh\\CalculatriceEssoh\\CalculatorEngine.cs",
+              "RelativeDocumentMoniker": "CalculatriceEssoh\\CalculatorEngine.cs",
+              "ToolTip": "C:\\Users\\KAMGA\\source\\repos\\CalculatriceEssoh\\CalculatriceEssoh\\CalculatorEngine.cs",
+              "RelativeToolTip": "CalculatriceEssoh\\CalculatorEngine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T11:04:38.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\KAMGA\\source\\repos\\CalculatriceEssoh\\CalculatriceEssoh\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "CalculatriceEssoh\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\KAMGA\\source\\repos\\CalculatriceEssoh\\CalculatriceEssoh\\MauiProgram.cs",
+              "RelativeToolTip": "CalculatriceEssoh\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T10:57:04.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\KAMGA\\source\\repos\\CalculatriceEssoh\\CalculatriceEssoh\\MainPage.xaml",
+              "RelativeDocumentMoniker": "CalculatriceEssoh\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\KAMGA\\source\\repos\\CalculatriceEssoh\\CalculatriceEssoh\\MainPage.xaml",
+              "RelativeToolTip": "CalculatriceEssoh\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-09-30T10:54:04.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\KAMGA\\source\\repos\\CalculatriceEssoh\\CalculatriceEssoh\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "CalculatriceEssoh\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\KAMGA\\source\\repos\\CalculatriceEssoh\\CalculatriceEssoh\\MainPage.xaml.cs",
+              "RelativeToolTip": "CalculatriceEssoh\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T10:50:23.056Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

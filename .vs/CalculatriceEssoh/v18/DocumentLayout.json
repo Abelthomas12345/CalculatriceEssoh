@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CalculatriceEssoh\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5267B1B0-0E81-477B-A9EB-FC9D323BF706}|CalculatriceEssoh\\CalculatriceEssoh.csproj|d:\\calculatriceessoh\\calculatriceessoh\\calculatorengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5267B1B0-0E81-477B-A9EB-FC9D323BF706}|CalculatriceEssoh\\CalculatriceEssoh.csproj|solutionrelative:calculatriceessoh\\calculatorengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5267B1B0-0E81-477B-A9EB-FC9D323BF706}|CalculatriceEssoh\\CalculatriceEssoh.csproj|d:\\calculatriceessoh\\calculatriceessoh\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5267B1B0-0E81-477B-A9EB-FC9D323BF706}|CalculatriceEssoh\\CalculatriceEssoh.csproj|solutionrelative:calculatriceessoh\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "D:\\CalculatriceEssoh\\CalculatriceEssoh\\MainPage.xaml",
+              "RelativeDocumentMoniker": "CalculatriceEssoh\\MainPage.xaml",
+              "ToolTip": "D:\\CalculatriceEssoh\\CalculatriceEssoh\\MainPage.xaml",
+              "RelativeToolTip": "CalculatriceEssoh\\MainPage.xaml",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-09-30T12:53:00.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculatorEngine.cs",
+              "DocumentMoniker": "D:\\CalculatriceEssoh\\CalculatriceEssoh\\CalculatorEngine.cs",
+              "RelativeDocumentMoniker": "CalculatriceEssoh\\CalculatorEngine.cs",
+              "ToolTip": "D:\\CalculatriceEssoh\\CalculatriceEssoh\\CalculatorEngine.cs",
+              "RelativeToolTip": "CalculatriceEssoh\\CalculatorEngine.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA3wAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T12:51:08.931Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
